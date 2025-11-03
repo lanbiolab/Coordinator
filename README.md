@@ -1,3 +1,4 @@
 # Coordinator
 
-The code will be released soon.
+# Run
+'' Python --dataset LandUse21 --semantic_model clip 
